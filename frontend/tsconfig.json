@@ -26,11 +26,7 @@
     "types": [
       "@nuxt/types",
       "@nuxtjs/axios",
-<<<<<<< HEAD
-      "@types/node"
-    ],
-    "jsx": "preserve"
-=======
+
       "@types/node",
       "@nuxtjs/auth-next"
     ]
